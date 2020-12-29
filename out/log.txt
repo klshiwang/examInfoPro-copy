@@ -1,32 +1,6 @@
-本次共写入了[30]个文件,写入时间是:[2020-12-25 18:11:20] 
+本次共写入了[4]个文件,写入时间是:[2020-12-29 13:48:11] 
 
-E:\pycode\examInfoPro\folder\机房3\192.168.20.113\李柏帧-201910020113-数字媒体19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.116_通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.156_谢艾玲-201910020116-数媒一班\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.157_晏康+201910020122+19数媒\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.163_张炬201910020124-数媒1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.178_陈昱均-201910020128-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\192.168.20.243\罗佳莉201910020107.xlsx
-E:\pycode\examInfoPro\folder\机房3\AG3XUV0I88H7HBS\梁艳 201910020125\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-10\冯雨 201910020108数媒一班\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-12_阮海文-201910020123-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-13_数媒一班彭科瑜\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-14\蒋进-201910020118-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-15\陈雨婷数字媒体一班201910020120\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-17\贾孟熙-201910020129\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-19\张雨泉-201910020134-19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-21\彭浩-201910020127-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-23\周鑫贝-201910020119-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-26_李治远 数媒19-1 201910020104\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-27_通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-28\沈杰-20191002011-数媒一班\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-29\李秀珍-19-1-201010020101\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-31\陈亚 201910020105\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-32\赵琳玉  201910020102\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-38\周张伟201910020114\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-39\范荻彬 201910020130 数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-40\韦肖蕾201910020106数媒一班\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-6\康琴201910020115数媒19-2\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C-7\付云然-201910020132-数媒19-1\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\C50_数媒19-盛云亮\通用答题卡.xlsx
-E:\pycode\examInfoPro\folder\机房3\F45\张雪-201910020112-数媒19-1\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\张三\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\李四\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\马六\新建文件夹\通用答题卡.xlsx
