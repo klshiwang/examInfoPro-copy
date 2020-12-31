@@ -175,8 +175,12 @@ def writeToXslx(answerObj,sheetObj):
 
 # 读写所有xlsx文件的数据
 for k in xlsxFiles:
-    ans = readXlsx(k)  #读到对象
-    writeToXslx(ans, ws)  #写到xslx
+    try:
+        ans = readXlsx(k)  #读到对象
+        writeToXslx(ans, ws)  #写到xslx
+    except IOError:
+        print("错误 :  读取或写入的excel文件正在编辑,请关闭已经打开的excel的文件并重新运行. %s" % k)
+
     records.append(k)
     # print(k)
 
@@ -187,8 +191,11 @@ if os.path.exists(outPath):
     # decision = input("是否删除文件?(Y/N)")
     # if decision == 'Y' or 'y':
     #     os.remove(outPath)
+    try:
         wb.save(outPath)
         print("文件更新成功:%s,添加了%d条记录" % (outPath, len(records)))
+    except IOError:
+        print("错误 :  读取或写入的excel文件正在编辑,请关闭已经打开的excel的文件并重新运行. %s" % outPath)
 else:
     wb.save(outPath)
     print("创建文件成功: %s , 添加了%d条记录" % (outPath, len(records)))

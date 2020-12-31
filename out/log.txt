@@ -1,6 +1,43 @@
-本次共写入了[4]个文件,写入时间是:[2020-12-29 13:48:11] 
+本次共写入了[41]个文件,写入时间是:[2020-12-31 10:34:24] 
 
 E:\pycode\examInfoPro\folder\学生提交文件示例\张三\通用答题卡.xlsx
 E:\pycode\examInfoPro\folder\学生提交文件示例\李四\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.106_冉美林\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.109_秦登伟-202010020225-20数媒-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.111_杨云-202010020244-数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.112_陆勤笑\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.113_罗长微 202010020222 20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.114_余林洋-202010020245-数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.123_吴倩\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.127_徐雷雨-数字媒体-20-2-202010020240\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.14_王星月202010020231\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.155_数媒2班谢琪202010020239\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.15_何雨恒 202010020211， 20-2\答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.16_蒋亚玲20级数媒2班202010020213\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.17_通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.22_陈祥玲 数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.25_数媒20-2吴卿燕202010020236\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.27_通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.31_刘念\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.32_曹梅\答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.34_吴德 20数媒-2  202010020233\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.35_杨萍\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.37_李啟凤数媒20-202010020214\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.39_杨博蕃-202010020242-数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.42_刘艳蓉-202010020220-20级数媒2班\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.49_任远杰\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.51_范思雨\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.56_母文龙-202010020223-数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.60_张媛媛- 202010020248-数媒20-2\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.62_数媒20-2 吴林科\吴林科通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.65_数字媒体20-2陈青青\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.67_王岑文20级数媒二班202010020230\王岑文.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.68_夏江兰-202010020238-数字媒体二班\夏江兰.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.69_李云凤\通用答题卡.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.70_廖百秀-数媒-20-2\廖百秀-256-数媒-20-2.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.75_岳古杰\岳古杰.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.76_陈红先202010020202\陈红先20树莓2.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.83_石翔允 202010020228 数媒20-2\石翔允 202010020228 数媒20-2.xlsx
+E:\pycode\examInfoPro\folder\学生提交文件示例\班级 2\192.168.20.87_张雪-202010020247\通用答题卡.xlsx
 E:\pycode\examInfoPro\folder\学生提交文件示例\通用答题卡.xlsx
 E:\pycode\examInfoPro\folder\学生提交文件示例\马六\新建文件夹\通用答题卡.xlsx
